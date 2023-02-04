@@ -16,6 +16,12 @@ public class EmployeeDetails {
 	private void empLocation() {
 		System.out.println("Chennai");
 	}
+	private void empMobile() {
+		System.out.println("8939278836");
+	}
+//<<<<<<< HEAD
+//=======
+//>>>>>>> 6cf553eb86037cdf5c0d42a3d20f9f1b98c868d5
 	
 	public static void main(String[] args) {
 		
